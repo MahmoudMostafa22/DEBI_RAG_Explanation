@@ -1,6 +1,6 @@
 # Simple RAG System Tutorial & WE Telecom Customer Agent
-
-Welcome to this repository! This project provides a step-by-step introduction to Vector Databases and how to build a Retrieval-Augmented Generation (RAG) pipeline from scratch. We demonstrate the practical application of RAG by building a **Customer Agent for WE Telecom** that can answer queries based on their official documentation.
+This Repo is for educational purposes of how to implement a RAG System.
+This project provides a step-by-step introduction to Vector Databases and how to build a Retrieval-Augmented Generation (RAG) pipeline from scratch. We demonstrate the practical application of RAG by building a **Customer Agent for WE Telecom** that can answer queries based on Scraped Data from their website.
 
 ## 📂 Project Structure
 
